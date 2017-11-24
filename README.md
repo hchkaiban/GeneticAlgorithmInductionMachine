@@ -2,7 +2,7 @@
 Genetic Algorithm for off-line identification of induction machine's parameters
 
 Accurate parameters are critical for the control of the machine. Classical methods like open load or blocked rotor tests are intrusive.
-The proposed method based on a genetic algorithm only requires standard measurements as input in permanent regime operation.
+The proposed method based on a genetic algorithm only requires standard measurements as input in stationary (permanent regime) operation.
 
 - GA_IMparamIdent_ISSN 1330-3651_Paper.pdf: Theory and equations
 - IM_GA_model.slx: Matlab Simulink simulation model
@@ -12,5 +12,5 @@ The proposed method based on a genetic algorithm only requires standard measurem
 
 Results:
 Proof of concept validated.
-Accuracy shall be be improved with more accurate measurements (in particular cos Phi) and more diverse operating points. 
+Accuracy shall be be improved with more accurate measurements (in particular cos Phi) and further operating points. 
  
