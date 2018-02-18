@@ -13,4 +13,6 @@ The proposed method based on a genetic algorithm only requires standard measurem
 Results:
 Proof of concept validated.
 Accuracy shall be be improved with more accurate measurements (in particular cos Phi) and further operating points. 
+
+![Identified Parameters](https://github.com/hchkaiban/GeneticAlgorithmInductionMachine/blob/master/AG_Scope.png)
  
